@@ -1,0 +1,14 @@
+{
+  "People": [
+    {
+      "Name": "Jane Smith",
+      "Address": "10th Avenue, Los Angeles, CA 99999",
+      "Phone": "222-2222"
+    },
+    {
+      "Name": "John Doe",
+      "Address": "5 Main Street, Houston, TX 77777",
+      "Phone": "111-1111"
+    }
+  ]
+}
